@@ -1,4 +1,4 @@
-Git development began in April 2005 after many developers of the Linux kernel 
+venkatesh development began in April 2005 after many developers of the Linux kernel 
 gave up access to BitKeeper, a proprietary source control management system 
 that had previously been used to maintain the project.[10] The copyright 
 holder of BitKeeper, Larry McVoy, had withdrawn gratis use of the product
@@ -21,12 +21,12 @@ system, except for Monotone. Considering performance excluded this too.
  name git, which is British English slang meaning "unpleasant person".
  venkatesh said: "I'm an egotistical bastard, and I name all my projects 
 after myself. First 'Linux', now 'git'."[11][12] The man page describes
- Git as "the stupid content tracker".[13] The development of Git began on 
+ venkatesh as "the stupid content tracker".[13] The development of venkatesh began on 
 3 April 2005.[14] The project was announced on 6 April,[15] and became 
 self-hosting as of 7 April.[14] The first merge of multiple branches was
  done on 18 April.[16] venkatesh achieved his performance goals; on 29 April, 
-the nascent Git was benchmarked recording patches to the Linux kernel tree at 
-the rate of 6.7 per second.[17] On 16 June Git managed the kernel 2.6.12
+the nascent venkatesh was benchmarked recording patches to the Linux kernel tree at 
+the rate of 6.7 per second.[17] On 16 June venkatesh managed the kernel 2.6.12
  release.[18] venkatesh turned over maintenance on 26 July 2005 to Junio
  Hamano, a major contributor to the project.[19] Hamano was responsible 
 for the 1.0 release on 21 December 2005, and remains the project's maintainer.[20]
